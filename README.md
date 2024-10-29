@@ -10,9 +10,9 @@ Single dimensional array and Multi-dimensional array:
 Numpy Operations
 
 1. Array Creation
-•	np.array(): Create an array from a list or tuple.
-•	np.zeros(): Create an array filled with zeros.
-•	np.ones(): Create an array filled with ones.
+-	np.array(): Create an array from a list or tuple.
+- np.zeros(): Create an array filled with zeros.
+- np.ones(): Create an array filled with ones.
 •	np.arange(): Create an array with a specified range.
 •	np.linspace(): Create an array with evenly spaced values.
 •	np.eye(): Create an identity matrix.
