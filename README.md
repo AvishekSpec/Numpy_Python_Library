@@ -106,7 +106,7 @@ So, a[0:2, 3] means:
 
 Linespace
 -	returns evenly spaced numbers over a specified interval
--	
+
 ![image](https://github.com/user-attachments/assets/afead951-10b0-43bd-b978-e061a3abfe04)
 
 Min/Max
