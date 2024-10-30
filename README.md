@@ -6,7 +6,9 @@ NumPy is a Python package that stands for ‘Numerical Python’. It is the core
 Numpy array is a powerful N-dimensional array object which is in the form of rows and columns. We can initialize NumPy arrays from nested Python lists and access it elements.
 
 <mark>Single dimensional array and Multi-dimensional array:</mark>
- 
+
+![image](https://github.com/user-attachments/assets/9be44f66-612b-4590-ac12-53d6a79703d8)
+
 
 <mark>Numpy Operations</mark>
 
