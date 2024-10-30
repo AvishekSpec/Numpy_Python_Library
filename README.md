@@ -1,4 +1,4 @@
-NumpyPython Library 
+**NumpyPython Library** 
 
 Numpy
 NumPy is a Python package that stands for ‘Numerical Python’. It is the core library for scientific computing, which contains a powerful n-dimensional array object.
