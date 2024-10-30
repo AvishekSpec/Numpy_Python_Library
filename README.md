@@ -94,28 +94,31 @@ Slicing
 ![image](https://github.com/user-attachments/assets/666dbe08-b4ad-4230-ad18-b322a41eaf5a)
 
 Explanation:
-Here, the colon (:) in a[0:, 2] selects all rows starting from row 0.The 2 after the comma specifies column 2.So, a[0:, 2] retrieves the third element (index 2) from each row.
+Here, the colon (:) in a[0:, 2] selects all rows starting from row 0.
+The 2 after the comma specifies column 2.So, a[0:, 2] retrieves the third element (index 2) from each row.
+
 When you use b[0:2, 3], here's how each part is interpreted:
 1.	0:2 (Rows): Selects rows starting from index 0 up to, but not including, index 2—so it includes rows 0 and 1 only.
 2.	3 (Column): Specifies column 3 for each selected row.
 So, a[0:2, 3] means:
-•	Select rows 0 and 1.
-•	Within these rows, select the element at column 3.
-
-
-
+-	Select rows 0 and 1.
+-	Within these rows, select the element at column 3.
 
 Linespace
-•	returns evenly spaced numbers over a specified interval
+-	returns evenly spaced numbers over a specified interval
+-	
 ![image](https://github.com/user-attachments/assets/afead951-10b0-43bd-b978-e061a3abfe04)
 
 Min/Max
+
 ![image](https://github.com/user-attachments/assets/6725e324-10ec-4c3f-a2a0-6f508f9d1954)
 
 Standard Deviation & Square Root
+
 ![image](https://github.com/user-attachments/assets/f01ed759-1d28-4afb-91de-5c8fbc7cf952)
 
 Mathematical Operation
+
 ![image](https://github.com/user-attachments/assets/8019155c-c2aa-44ba-9759-a57abbe86ccc)
  
 
